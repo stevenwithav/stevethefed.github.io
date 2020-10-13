@@ -7,7 +7,7 @@ function App() {
     <div className={styles.app}>
       <header className={styles.appHeader}>
         <p>
-          Github pages deployment test
+          Under construction
         </p>
       </header>
     </div>
